@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="XVideoUI">
+    <file>Resources/close_16px_1137817_easyicon.net.png</file>
+    <file>Resources/close_24px_1137817_easyicon.net.png</file>
+    <file>Resources/close_24px_1172343_easyicon.net.png</file>
+    <file>Resources/close_128px_1137817_easyicon.net.png</file>
+    <file>Resources/PauseH.png</file>
+    <file>Resources/PauseN.png</file>
+    <file>Resources/PauseP.png</file>
+    <file>Resources/PlayD.png</file>
+    <file>Resources/PlayH.png</file>
+    <file>Resources/PlayN.png</file>
+    <file>Resources/PlayP.png</file>
+    <file>Resources/Video_Alternative_111px_1143259_easyicon.net.ico</file>
+  </qresource>
+</RCC>
